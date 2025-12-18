@@ -50,7 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/gabriele-medeiros/Bala_da_Sogra_API.git)
 ```
 
 Entre na pasta do projeto:
