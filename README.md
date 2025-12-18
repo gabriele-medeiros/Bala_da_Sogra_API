@@ -50,7 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 Clone o repositório:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/gabriele-medeiros/Bala_da_Sogra_API.git)
+git clone https://github.com/gabriele-medeiros/Bala_da_Sogra_API.git
 ```
 
 Entre na pasta do projeto:
@@ -148,10 +148,9 @@ Para este teste é necessário realizar a insatalação e a utlização da ferra
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
 LinkedIn:[Gabriele Medeiros](https://www.linkedin.com/in/gabriele-medeiros-0a6832164/)
 GitHub: https://github.com/gabriele-medeiros
 
 ## 📜 Licença
 
-Este projeto está sob a licença ________. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença. Veja o arquivo `LICENSE` para mais detalhes.
